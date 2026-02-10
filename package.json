@@ -25,7 +25,7 @@
     "chai": "^4.2.0",
     "depcheck": "^0.9.1",
     "openzeppelin-test-helpers": "^0.4.3",
-    "solhint": "^2.1.0",
+    "solhint": "^6.0.3",
     "truffle": "^5.1.5"
   }
 }
